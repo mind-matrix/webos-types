@@ -1,0 +1,20 @@
+{
+  "name": "@types/webos",
+  "version": "1.0.0",
+  "description": "Typings for WebOS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mind-matrix/webos-types.git"
+  },
+  "author": "Sagnik Modak",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "bugs": {
+    "url": "https://github.com/mind-matrix/webos-types/issues"
+  },
+  "homepage": "https://github.com/mind-matrix/webos-types#readme"
+}
